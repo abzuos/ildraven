@@ -1,0 +1,38 @@
+body {
+    background-color: #efe8d1; /* Couleur beige pour évoquer le vieux papier */
+    font-family: 'Uncial Antiqua', cursive; /* Police médiévale */
+}
+
+header {
+    background-color: #442c22; /* Couleur foncée pour évoquer le bois ou la pierre */
+    color: #f4e3d6; /* Texte clair pour contraster */
+    padding: 1em;
+    text-align: center;
+}
+
+nav {
+    background-color: #efe8d1; /* Répète la couleur du fond de la page */
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+    font-size: 18px; /* Taille de police légèrement augmentée */
+    border-bottom: 2px solid #442c22; /* Bordure basse pour un aspect médiéval */
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #f4e3d6; /* Couleur de fond claire pour le contenu */
+    border: 1px solid #442c22; /* Bordure foncée pour délimiter les sections */
+    box-shadow: 3px 3px 5px #888888; /* Ombre pour ajouter de la profondeur */
+}
